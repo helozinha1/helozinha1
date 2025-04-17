@@ -28,6 +28,18 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
         <a href = "mailto:helowzx@gmail.com">
         <img
              <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+              </a>
+        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
+        <img
+            alt="Seguidores"
+            title="Me siga no Instagram"
+             <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
+        <img
+            alt="Seguidores"
+            title="Me siga no TikTok"
+             <img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 
 </p>
 
