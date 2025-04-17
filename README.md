@@ -21,13 +21,9 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 
  </a>
 
-
-# Redes Sociais
-
-
- 
+ # Redes Sociais
  </p>
-       <p align="left">
+ <p align="left">
        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
         <img 
             alt="Seguidores" 
