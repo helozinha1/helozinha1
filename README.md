@@ -5,9 +5,6 @@
 
 Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e moro em São Paulo. Estou mergulhando no universo da tecnologia, buscando sempre aprender e aprimorar meus conhecimentos na área de desenvolvimento.
 
-
----
-
 <p align="left">
     </a> 
     <a href="https://github.com/Helowzx?tab=repositories&sort=stargazers">
@@ -28,16 +25,15 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             title="Me siga no Linkedin" 
              <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+        <a href = "mailto:helowzx@gmail.com">
+        <img
+             <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
-
-
-         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
 </p>
 
 
 
-
-
+---
 
 
 ### 🤖 Linguagens e Tecnologias
