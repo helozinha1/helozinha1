@@ -14,7 +14,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             src="https://custom-icon-badges.demolab.com/github/stars/helozinha1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Helowzx?tab=followers">
+    <a href= "www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -25,7 +25,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
         <img 
             alt="Seguidores" 
             title="Me siga no Linkedin" 
-            src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
+             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         />
     </a>
 </p>
