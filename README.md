@@ -21,7 +21,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-        <a href="www.linkedin.com/in/helloysa">
+        <a href="www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
         <img 
             alt="Seguidores" 
             title="Me siga no Linkedin" 
