@@ -13,7 +13,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/helozinha1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     </a>
-    <a href= "www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
+    <a href="https://github.com/Gabyz777?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
