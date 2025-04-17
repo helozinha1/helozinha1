@@ -7,13 +7,13 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 
 <p align="left">
     </a> 
-    <a href="https://github.com/Helowzx?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Helozinha1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/helozinha1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     </a>
-    <a href="https://github.com/Gabyz777?tab=followers">
+    <a href="https://github.com/helozinha1?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -98,7 +98,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"
+    src= "https://github-readme-stats.vercel.app/api?username=helozinha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"
   />
 
 <img 
