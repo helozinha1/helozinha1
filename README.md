@@ -18,8 +18,8 @@
 </p>
 -->
 
-<a href="https://github.com/helozinhaa1/helozinha1/blob/main/gif1.jpeg">
-  <img src="https://github.com/helozinha1/helozinha1/blob/main/gif1.jpeg" alt="GiF 1" style="width:auto; height:auto"/>
+<a href="https://github.com/helozinhaa1/helozinha1/blob/main/download.gif">
+  <img src="https://github.com/helozinha1/helozinha1/blob/main/download.gif" alt="GiF 1" style="width:auto; height:auto"/>
 </a>
 
 # 👩🏻‍💻 Helloysa Rocha
