@@ -56,7 +56,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -137,3 +137,5 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
