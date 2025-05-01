@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif">
-    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="700" />
+    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="800" />
   </a>
 
   <h1>👩🏻‍💻 Helloysa Rocha</h1>
@@ -61,6 +61,7 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 
 ### 🤖 Linguagens e Tecnologias
 
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -109,29 +110,23 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     />
+    
+
 
 <br/>
 <br/>
+
+
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api?username=helozinha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"
-  />
+<div align="center">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=midnight-purple&hide=contribs,issues">
+    
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=midnight-purple&hide=html">
+</a>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
