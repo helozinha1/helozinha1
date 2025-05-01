@@ -7,6 +7,25 @@
   </a>
 </div>
 
+<div align="center" style="margin: 30px 0;">
+  <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
+    <img src="https://img.icons8.com/ios/40/9b4de0/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:helowzx@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/40/9b4de0/gmail--v1.png" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/heloowzx2" target="_blank">
+    <img src="https://img.icons8.com/ios/40/9b4de0/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@heloo.sep" target="_blank">
+    <img src="https://img.icons8.com/ios/40/9b4de0/tiktok--v1.png" alt="TikTok" />
+  </a>
+  <br />
+  <h6 style="margin-top: 15px; font-family: Arial, sans-serif; color: #555;">Os ícones acima são clicáveis</h6>
+</div>
+
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <div align="center">
@@ -37,33 +56,6 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 </a>
 
-
- ### Redes Sociais
- </p>
- <p align="left">
-       <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no Linkedin" 
-             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-        <a href = "mailto:helowzx@gmail.com">
-        <img
-             <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-              </a>
-        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
-        <img
-            alt="Seguidores"
-            title="Me siga no Instagram"
-             <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
-        <img
-            alt="Seguidores"
-            title="Me siga no TikTok"
-             <img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-
-</p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
