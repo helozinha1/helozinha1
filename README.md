@@ -1,28 +1,10 @@
-<!--
 <div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
+  <a href="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif">
+    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="700" />
   </a>
-  <br>
--->
 
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
-<a href="https://github.com/helozinhaa1/helozinha1/blob/main/download.gif">
-  <img src="https://github.com/helozinha1/helozinha1/blob/main/download.gif" alt="GiF 1" style="width:auto; height:auto"/>
-</a>
-
-# 👩🏻‍💻 Helloysa Rocha
+  <h1>👩🏻‍💻 Helloysa Rocha</h1>
+</div>
 
 **`Desenvolvedora de Sistema`**
 
