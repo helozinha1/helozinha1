@@ -1,14 +1,25 @@
-<div align="center">
-  <a href="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif">
-    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="800" />
+<div align="center" style="margin: 40px 0;">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helloysa+Rocha;I+am+from+São+Paulo,+Brasil;Be+Welcome!+:3" 
+      alt="Typing SVG" 
+    />
   </a>
-
-  <h1>👩🏻‍💻 Helloysa Rocha</h1>
 </div>
 
-**`Desenvolvedora de Sistema`**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif">
+    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="800" style="margin-top: 40px; border-radius: 10px;"  />
+  </a>
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
+*`Desenvolvedora de Sistema`*
 Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e moro em São Paulo. Estou mergulhando no universo da tecnologia, buscando sempre aprender e aprimorar meus conhecimentos na área de desenvolvimento.
 
 <p align="left">
@@ -24,10 +35,10 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+</a>
 
- </a>
 
- # Redes Sociais
+ ### Redes Sociais
  </p>
  <p align="left">
        <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b">
@@ -55,77 +66,27 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 </p>
 
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-   /> 
-   <img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    />
-    <img 
-    align="left" 
-    alt="postgresql/" 
-    title="postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    />
-    
-
+![My Skills](https://skillicons.dev/icons?i=js,react,python)
 
 <br/>
-<br/>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 ### 📊 Estatísticas
-
 <div align="center">
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=midnight-purple&hide=contribs,issues">
     
 <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=midnight-purple&hide=html">
 </a>
 </div>
+
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
