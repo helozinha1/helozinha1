@@ -87,3 +87,14 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 </picture>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=helozinha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+
+
+
