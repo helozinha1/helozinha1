@@ -69,6 +69,39 @@ Meu nome é Helloysa, sou estudante de Desenvolvimento de Sistemas no Senai e mo
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
+### 🚀 Meus Projetos
+
+#### 🌳 Projeto: [EcoConexão](https://github.com/helozinha1/Site-Sustentabilidade)
+
+Este projeto é o **EcoConexão**, um **site responsivo focado em sustentabilidade** que visa promover a conscientização e oferecer soluções práticas para um futuro mais verde. Ele apresenta informações sobre reciclagem, economia de energia e dicas ecológicas, com elementos interativos para engajar os visitantes na causa ambiental.
+
+**Tecnologias:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+* [**Ver no GitHub**](https://github.com/helozinha1/Site-Sustentabilidade)
+* [**Ver Demonstração**](https://helozinha1.github.io/Site-Sustentabilidade/)
+
+<br>
+
+#### 🍔 Projeto: [Site de Hamburgueria](https://github.com/helozinha1/site-hamburgueria)
+
+Este projeto é um **site responsivo para uma hamburgueria**, apresentando um menu interativo, informações de contato e um design atraente para clientes. Foi desenvolvido para criar uma presença online convidativa para estabelecimentos de comida, demonstrando habilidades em desenvolvimento web front-end.
+
+**Tecnologias:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+* [**Ver no GitHub**](https://github.com/helozinha1/site-hamburgueria)
+* [**Ver Demonstração**](https://helozinha1.github.io/site-hamburgueria/)
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 ### 📊 Estatísticas
 <div align="center">
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=midnight-purple&hide=contribs,issues">
