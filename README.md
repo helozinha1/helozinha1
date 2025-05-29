@@ -63,7 +63,7 @@ Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Sen
 
 ### 🤖 Linguagens e Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=js,react,python)
+![My Skills](https://skillicons.dev/icons?i=js,react,python,git,html,css)
 
 <br/>
 
