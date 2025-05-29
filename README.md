@@ -39,7 +39,7 @@
 
 
 *`Desenvolvedora Front-end`*
-Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Senai, com residência em São Paulo. Atualmente, estou focando meus estudos e aprimoramento na área de desenvolvimento front-end, sempre buscando as melhores práticas e tecnologias para criar experiências digitais incríveis.
+Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Senai. Atualmente, estou focando meus estudos e aprimoramento na área de desenvolvimento front-end, sempre buscando as melhores práticas e tecnologias para criar experiências digitais incríveis.
 
 <p align="left">
     </a> 
