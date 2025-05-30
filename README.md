@@ -86,6 +86,8 @@ Este projeto é o **EcoConexão**, um **site responsivo focado em sustentabilida
 
 <br>
 
+---
+
 #### 🍔 Projeto: [Site de Hamburgueria](https://github.com/helozinha1/site-hamburgueria)
 
 Este projeto é um **site responsivo para uma hamburgueria**, apresentando um menu interativo, informações de contato e um design atraente para clientes. Foi desenvolvido para criar uma presença online convidativa para estabelecimentos de comida, demonstrando habilidades em desenvolvimento web front-end.
@@ -98,6 +100,23 @@ Este projeto é um **site responsivo para uma hamburgueria**, apresentando um me
 
 * [**Ver no GitHub**](https://github.com/helozinha1/site-hamburgueria)
 * [**Ver Demonstração**](https://helozinha1.github.io/site-hamburgueria/)
+
+<br>
+
+---
+
+#### 📰 Projeto: [Jornal Mundial IS](https://github.com/helozinha1/paginadojornal/)
+
+Este projeto é o **Jornal Mundial IS**, um **site de notícias e conteúdo educativo** que explora temas de Geografia e Sociologia de forma acessível e envolvente. Desenvolvido para apresentar informações de maneira clara e com design intuitivo, ele demonstra a capacidade de criar plataformas de conteúdo dinâmicas e responsivas.
+
+**Tecnologias:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+* [**Ver no GitHub**](https://github.com/helozinha1/paginadojornal/)
+* [**Ver Demonstração**](https://helozinha1.github.io/paginadojornal/)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
