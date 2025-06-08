@@ -86,7 +86,7 @@ Este projeto é o **EcoConexão**, um **site responsivo focado em sustentabilida
 
 <br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 #### 🍔 Projeto: [Site de Hamburgueria](https://github.com/helozinha1/site-hamburgueria)
 
@@ -103,7 +103,7 @@ Este projeto é um **site responsivo para uma hamburgueria**, apresentando um me
 
 <br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 #### 📰 Projeto: [Jornal Mundial IS](https://github.com/helozinha1/paginadojornal/)
 
