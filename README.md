@@ -71,6 +71,22 @@ Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Sen
 
 ### 🚀 Meus Projetos
 
+#### 🏠 Projeto: [Projeto Integrador Minha Casa IOT](https://github.com/helozinha1/PI-minha.casa.inteligente)
+
+Este projeto é o **Projeto Integrador Minha Casa IOT**, focado na criação de uma solução de casa inteligente utilizando conceitos de Internet das Coisas (IOT). Ele explora a integração de dispositivos e sistemas para automação residencial, buscando oferecer praticidade, segurança e eficiência para o lar.
+
+**Tecnologias:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+* [**Ver no GitHub**](https://github.com/helozinha1/PI-minha.casa.inteligente)
+* [**Ver Demonstração**](https://helozinha1.github.io/PI-minha.casa.inteligente/)
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 #### 🌳 Projeto: [EcoConexão](https://github.com/helozinha1/Site-Sustentabilidade)
 
 Este projeto é o **EcoConexão**, um **site responsivo focado em sustentabilidade** que visa promover a conscientização e oferecer soluções práticas para um futuro mais verde. Ele apresenta informações sobre reciclagem, economia de energia e dicas ecológicas, com elementos interativos para engajar os visitantes na causa ambiental.
@@ -117,7 +133,6 @@ Este projeto é o **Jornal Mundial IS**, um **site de notícias e conteúdo educ
 
 * [**Ver no GitHub**](https://github.com/helozinha1/paginadojornal/)
 * [**Ver Demonstração**](https://helozinha1.github.io/paginadojornal/)
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
