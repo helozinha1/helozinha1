@@ -1,7 +1,7 @@
 <div align="center" style="margin: 40px 0;">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helloysa+Rocha;I+am+from+São+Paulo,+Brasil;Be+Welcome!+:3" 
+      src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helloysa+Rocha;I+am+from+São+Paulo,+Brasil;Be+Welcome!+:3" 
       alt="Typing SVG" 
     />
   </a>
@@ -9,19 +9,19 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
-    <img src="https://img.icons8.com/ios/40/9b4de0/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:helowzx@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/40/9b4de0/gmail--v1.png" alt="Gmail" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/gmail--v1.png" alt="Gmail" />
   </a>
   <a href="https://instagram.com/heloowzx2" target="_blank">
-    <img src="https://img.icons8.com/ios/40/9b4de0/instagram-new--v1.png" alt="Instagram" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@heloo.sep" target="_blank">
-    <img src="https://img.icons8.com/ios/40/9b4de0/tiktok--v1.png" alt="TikTok" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/tiktok--v1.png" alt="TikTok" />
   </a>
   <br />
-  <h6 style="margin-top: 15px; font-family: Arial, sans-serif; color: #555;">Os ícones acima são clicáveis</h6>
+  <h6 style="margin-top: 15px; font-family: Arial, sans-serif; color: #E06EB7;">Os ícones acima são clicáveis</h6>
 </div>
 
 
