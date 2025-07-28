@@ -28,12 +28,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif">
-    <img src="https://raw.githubusercontent.com/helozinha1/helozinha1/2d400941246a082308086da392334c203a8d8f5a/download.gif" alt="GiF 1" width="800" style="margin-top: 40px; border-radius: 10px;"  />
-  </a>
-
-</div>
+<img align="right" alt="helozinha" scr="hellokitty.gif" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
