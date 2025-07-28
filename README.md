@@ -25,14 +25,6 @@
 </div>
 
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<img align="right" alt="helozinha" scr="hellokitty.gif" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-
 *`Desenvolvedora Front-end`*
 Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Senai. Atualmente, estou focando meus estudos e aprimoramento na área de desenvolvimento front-end, sempre buscando as melhores práticas e tecnologias para criar experiências digitais incríveis.
 
