@@ -1,48 +1,26 @@
-<div align="center" style="margin: 40px 0;">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helloysa+Rocha;I+am+from+São+Paulo,+Brasil;Be+Welcome!+:3" 
-      alt="Typing SVG" 
-    />
-  </a>
-</div>
+<h1>Oiiii < Devss /> 👩‍💻 </h1> 
 
-<div align="center" style="margin: 30px 0;">
+### Meu nome é Helloysa, Tenho 16 anos, Sou de Vinhedo Sp ❤️
+
+* 💻 Desenvolvedora de Software
+* ⚙️ Tecnóloga em Desenvolvimento de Sistemas
+* 🚀 Apaixonada por Técnologia e Saúde
+
+
+<div align="left" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/linkedin.png" alt="LinkedIn">
   </a>
   <a href="mailto:helowzx@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/gmail--v1.png" alt="Gmail" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/gmail--v1.png" alt="Gmail">
   </a>
   <a href="https://instagram.com/heloowzx2" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/instagram-new--v1.png" alt="Instagram" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/instagram-new--v1.png" alt="Instagram">
   </a>
   <a href="https://tiktok.com/@heloo.sep" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/tiktok--v1.png" alt="TikTok" />
+    <img src="https://img.icons8.com/ios/35/FF69B4/tiktok--v1.png" alt="TikTok">
   </a>
-  <br />
-  <h6 style="margin-top: 15px; font-family: Arial, sans-serif; color: #E06EB7;">Os ícones acima são clicáveis</h6>
 </div>
-
-
-*`Desenvolvedora Front-end`*
-Olá! Meu nome é Helloysa e sou estudante de Desenvolvimento de Sistemas no Senai. Atualmente, estou focando meus estudos e aprimoramento na área de desenvolvimento front-end, sempre buscando as melhores práticas e tecnologias para criar experiências digitais incríveis.
-
-<p align="left">
-    </a> 
-    <a href="https://github.com/Helozinha1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/helozinha1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    </a>
-    <a href="https://github.com/helozinha1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-</a>
-
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
