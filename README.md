@@ -1,3 +1,8 @@
+<div align="center"><img width="2560" height="500" alt="Design sem nome" src="https://github.com/user-attachments/assets/e86018b5-7160-439c-a9cf-b139509248d2" />
+
+  
+</div>
+
 <h1>Oiiii < Devss /> 👩‍💻 </h1> 
 
 ### Meu nome é Helloysa, Tenho 16 anos, Sou de Vinhedo Sp ❤️
