@@ -40,10 +40,10 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 ### 📊 Estatísticas
-<div align="center">
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=midnight-purple&hide=contribs,issues">
+<div>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
     
-<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=midnight-purple&hide=html">
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=omni&locale=pt-br">
 </a>
 </div>
 
@@ -62,7 +62,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helozinha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helozinha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&locale=pt-br" />
 </p>
 
 
