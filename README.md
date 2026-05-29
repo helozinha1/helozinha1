@@ -56,9 +56,6 @@ No momento, minha energia está totalmente canalizada em duas grandes frentes de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/heloowzx2)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helozinha1&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
