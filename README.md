@@ -56,7 +56,7 @@ No momento, minha energia está totalmente canalizada em duas grandes frentes de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/heloowzx2)
 
-[![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)](https://github.com/platane/platane)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i5u5w45ouunmneduoejc4j633y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i5u5w45ouunmneduoejc4j633y&redirect=true)
 
 ---
 
