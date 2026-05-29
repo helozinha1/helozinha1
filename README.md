@@ -29,8 +29,6 @@ No momento, minha energia está totalmente canalizada em duas grandes frentes de
 * ⚡ **Treinamento para Competir:** Preparação intensa e diária na modalidade de **Web Technologies**, refinando habilidades técnicas sob padrões internacionais de velocidade, qualidade de código e arquitetura de sistemas.
 * 💻 **Consolidação em Backend (PHP & Ecossistemas Modernos):** Desenvolvimento focado na construção de aplicações robustas, modelagem de bancos de dados eficientes, segurança de dados e aplicação de boas práticas de engenharia de software.
 
-> 🛠️ *Meu objetivo atual é levar a lógica de programação ao limite para construir sistemas resilientes e escaláveis, preparados para os desafios reais do mercado global.*
-
 <br clear="left"/>
 
 ---
@@ -56,7 +54,7 @@ No momento, minha energia está totalmente canalizada em duas grandes frentes de
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/heloowzx2)
 
 [![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)](https://github.com/platane/platane)
 
